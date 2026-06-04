@@ -1,0 +1,10 @@
+{
+  "domain": "failover_sensor",
+  "name": "Failover Helper",
+  "documentation": "https://example.com",
+  "dependencies": [],
+  "codeowners": ["HF"],
+  "version": "0.0.2",
+  "config_flow": true,
+  "iot_class": "local_push"
+}
